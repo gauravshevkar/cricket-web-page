@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0
+}
+.container1{
+    background-color: #0D6EFD;
+    height: 250px;
+    text-align: center;
+    padding: 40px;
+}
+.scoll-button{
+    border: solid ;
+}
+.LM{
+    border-radius: 10px;
+    border: solid white;
+    padding: 10PX;
+    width: 150PX;
+    margin: 20px;
+}
+.slide{
+    width: 1130px;
+}
+.container2{
+    background-color: #F8F9FA;
+
+}
